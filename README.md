@@ -1,4 +1,4 @@
 # AlainF-ing.github.io
-Mon site publique de présentation de mes projets 
-Version initiale : 4 Mars 2025
+Mon site publique: présentation de mes projets.  
+Version initiale : 4 Mars 2025.  
 
